@@ -29,7 +29,7 @@ An easy-to-use, mobile-responsive web dashboard tailored for camel farm owners a
 
 ---
 
-*   ## 🚀 Feasibility, Cost & Maintenance
+ ## 🚀 Feasibility, Cost & Maintenance
 * **Rural Setting Deployment:** Built as an ultra-lightweight front-end dashboard using standard web tools. It operates smoothly on low-bandwidth rural mobile networks in Al Qua'a without requiring heavy data usage or app store installations.
 * **Zero Cost & Minimal Resources:** Because it runs entirely client-side (vanilla HTML/CSS/JS) and is hosted for free on GitHub Pages, there are zero server costs, zero database fees, and no external hardware resources required.
 * **Low Maintenance:** The modular data architecture means updating market prices or feed metrics only requires editing a simple local data file, making long-term maintenance straightforward and non-technical.
