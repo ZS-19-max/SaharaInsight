@@ -28,10 +28,11 @@ An easy-to-use, mobile-responsive web dashboard tailored for camel farm owners a
 
 ---
 
-## 🚀 Feasibility & Scalability
-
-*   **Immediate Deployment:** Built as a lightweight front-end dashboard that uses standard web tools. It operates smoothly on rural mobile networks without heavy data requirements or installations.
-*   **Growth Potential:** While initially seeded with local Al Qua'a agricultural and livestock data, the data architecture is highly modular. The platform can be instantly replicated for any agricultural or livestock market across the region by dropping a new local data set into the core repository.
+*   ## 🚀 Feasibility, Cost & Maintenance
+* **Rural Setting Deployment:** Built as an ultra-lightweight front-end dashboard using standard web tools. It operates smoothly on low-bandwidth rural mobile networks in Al Qua'a without requiring heavy data usage or app store installations.
+* **Zero Cost & Minimal Resources:** Because it runs entirely client-side (vanilla HTML/CSS/JS) and is hosted for free on GitHub Pages, there are zero server costs, zero database fees, and no external hardware resources required.
+* **Low Maintenance:** The modular data architecture means updating market prices or feed metrics only requires editing a simple local data file, making long-term maintenance straightforward and non-technical.
+* **Growth Potential:** The platform can be instantly replicated for any agricultural or livestock market across the region by dropping a new localized dataset into the core repository.
 
 ---
 
