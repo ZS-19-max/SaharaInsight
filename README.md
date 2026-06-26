@@ -32,3 +32,9 @@ An easy-to-use, mobile-responsive web dashboard tailored for camel farm owners a
 
 *   **Immediate Deployment:** Built as a lightweight front-end dashboard that uses standard web tools. It operates smoothly on rural mobile networks without heavy data requirements or installations.
 *   **Growth Potential:** While initially seeded with local Al Qua'a agricultural and livestock data, the data architecture is highly modular. The platform can be instantly replicated for any agricultural or livestock market across the region by dropping a new local data set into the core repository.
+
+---
+
+## 🛠️ Built With & How to Verify
+* **Tools Used:** Clean HTML5, CSS3 for mobile-responsive styling, and Vanilla JavaScript for dynamic calculation logic.
+* **Live Demo:** You can test and verify the live, interactive application right here: [https://zs-19-max.github.io/SaharaInsight/](https://zs-19-max.github.io/SaharaInsight/)
