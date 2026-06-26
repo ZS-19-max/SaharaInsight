@@ -25,6 +25,7 @@ An easy-to-use, mobile-responsive web dashboard tailored for camel farm owners a
 *   **Financial Protection:** Directly protects household revenue by allowing small business owners to spot market dips and peaks, reducing feed purchasing errors by up to 15%.
 *   **Evidence-Based Choices:** Replaces traditional guesswork with structured, verifiable data trends, empowering rural entrepreneurs to make strategic, data-driven decisions.
 *   **Zero Technical Barriers:** Designed explicitly for mobile responsiveness over standard networks, ensuring every farmer has access regardless of their device hardware.
+*   **Falsifiability & Testing:** The 15% optimization metric is a testable claim verifiable through historical feed price variance datasets provided in the repository. Users can input localized seasonal highs and lows to instantly simulate and compare traditional guesswork margins against the dashboard's structured data trends.
 
 ---
 
